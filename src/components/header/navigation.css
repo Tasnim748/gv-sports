@@ -1,0 +1,21 @@
+.NavLink {
+    text-decoration: none;
+    color: lightgray
+}
+
+.NavLink:hover {
+    color: white;
+}
+
+.active {
+    color: lightgreen
+}
+
+.NavBrand {
+    text-decoration: none;
+    color: lightgray;
+}
+
+.NavBrand:hover {
+    color: white;
+}
